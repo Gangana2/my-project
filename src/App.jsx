@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <CartPage />
-    </div>
+    </div>//
   );
 }
 
